@@ -5,5 +5,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/httpcomponents-client-4.3.4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json_simple-1.1"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-framework-5.2.5.RELEASE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson.spring5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
