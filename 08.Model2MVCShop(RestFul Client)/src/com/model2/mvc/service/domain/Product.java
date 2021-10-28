@@ -89,6 +89,7 @@ public class Product {
 	}
 
 	public void setProdNo(int prodNo) {
+		System.out.println("1111 "+prodNo);
 		this.prodNo = prodNo;
 	}
 
